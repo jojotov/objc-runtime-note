@@ -1,8 +1,5 @@
 ## Objective-C Runtime 解析（1） —— 从一个类开始
 
-[TOC]
-
-[BOC]
 
 *以下源码均来自 [objc runtime 723](https://opensource.apple.com/tarballs/objc4/objc4-723.tar.gz)*
 
